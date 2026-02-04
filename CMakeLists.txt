@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 4.1)
+project(CS2308SPRING2026LABS_NETID)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(CS2308SPRING2026LABS_NETID main.cpp)
